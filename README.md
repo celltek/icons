@@ -1,4 +1,4 @@
-## Automated Shop/Store Icons for TekBASE
+## Automated Shop Icon & Pictures for TekBASE
 <p>
     <a href="https://github.com/celltek/icons/releases"><img src="https://img.shields.io/github/v/release/celltek/icons" alt="Release"></a>
     <a href="https://github.com/celltek/icons/blob/master/LICENSE"><img src="https://img.shields.io/github/license/celltek/icons" alt="License"></a>
